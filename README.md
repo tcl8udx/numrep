@@ -1,8 +1,5 @@
 # numrep
 
-Starter code for numerical representation exercise
-
-Add your files here.
 
 Float      overflow: 1.70141e+38    underflow: 1.4013e-45
 Double     overflow: 8.98847e+307   underflow: 4.94066e-324
